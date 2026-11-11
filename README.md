@@ -1,9 +1,9 @@
-## 1. Introduction
+# 1. Project Overview
 
-## 2. Database Structure
+# 2. Technologies Used
 
-## 3. Entity Relationship Diagram (ERD)
+# 3. Database Structure
 
-## 4. Key Features
+# 4. SQL Analysis
 
-## 5. SQL Queries & Technologies Used
+# 5. Documentation
